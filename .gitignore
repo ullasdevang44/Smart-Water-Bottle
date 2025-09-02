@@ -1,0 +1,6 @@
+*.bin
+*.elf
+*.o
+*.d
+.vscode/
+*.bak
