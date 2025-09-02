@@ -1,0 +1,7 @@
+U8g2
+HX711
+RTClib
+BlynkSimpleEsp32
+WiFi (included with ESP32 Arduino core)
+WiFiUdp (included with ESP32 Arduino core)
+NTPClient
